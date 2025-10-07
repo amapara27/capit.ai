@@ -35,9 +35,6 @@ To get a local copy up and running, follow these simple steps.
     ```
 
 2.  Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 3.  Set up your environment variables by creating a `.env` file and adding any necessary API keys.
 
