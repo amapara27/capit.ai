@@ -34,7 +34,7 @@ tools = [
         QueryEngineTool(
             query_engine = stock_query_engine, 
             metadata = ToolMetadata(
-                name = "canada_data",
+                name = "stock_data",
                 description = "This gives detailed information about the stock data from the csv file",
          ),
     ),
